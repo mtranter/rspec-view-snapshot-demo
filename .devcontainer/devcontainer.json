@@ -1,0 +1,9 @@
+{
+	"dockerComposeFile": [
+		"./../docker-compose.yml",
+		"docker-compose.workspace.yml"
+	],
+	"service": "workspace",
+	"workspaceFolder": "/workspace",
+	"overrideCommand": true
+}
